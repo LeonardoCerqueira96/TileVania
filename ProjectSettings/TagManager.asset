@@ -13,10 +13,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Ladders
+  - Player
+  - Background
   - 
   - 
   - 
@@ -43,6 +43,9 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 3291658089
+    locked: 0
+  - name: Ladders
+    uniqueID: 2849891925
     locked: 0
   - name: Characters
     uniqueID: 2706946975
